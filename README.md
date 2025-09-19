@@ -105,7 +105,7 @@ Here are some of the languages, frameworks, and tools I work with:
 
 ---
 
-### 📊 GitHub Stats & Trophies
+### 📊 My Stats & Activity
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -114,10 +114,7 @@ Here are some of the languages, frameworks, and tools I work with:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamran534&show_icons=true&locale=en&theme=tokyonight" alt="kamran534" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamran534&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kamran534" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamran534&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamran534&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamran534&theme=tokyonight" alt="kamran534" />
-</p>
